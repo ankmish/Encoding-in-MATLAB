@@ -1,0 +1,1 @@
+AdaptiveHuffman(4,'abcbbacad');
